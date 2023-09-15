@@ -1,6 +1,4 @@
 
-##https://rpubs.com/smstewart1/1067702
-
 if(!require('tidyverse')) {
   install.packages('tidyverse')
   library('tidyverse')
